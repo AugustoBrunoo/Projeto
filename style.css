@@ -5,3 +5,11 @@
 .divs-facilidades {
     width: 325px;
 }
+
+.bg-custom {
+    background-color: blueviolet;
+}
+
+.text-custom {
+    color: #DAFF01;
+}
