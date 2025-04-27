@@ -13,3 +13,21 @@
 .text-custom {
     color: #DAFF01;
 }
+
+.btn-custom {
+    background-color: #9353FF;
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #5a2fa3;
+    color: aliceblue;
+}
+
+
+
+@media(max-width: 767px) {
+    .posicao {
+        top: 60%;
+    }
+}
